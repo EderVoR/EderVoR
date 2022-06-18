@@ -1,8 +1,6 @@
 ## Olá, Sou o Eder
 
 #### 💻 Estudante em constante aprendizado</br>
-#### 🎞 Vicio em filmes e séries</br>
-#### 📖 Leitor nas horas vagas</br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EderVoR&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
