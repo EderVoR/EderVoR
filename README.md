@@ -1,6 +1,10 @@
-## Olá, Sou o Eder
+## Olá, Meu nome é Eder Vieira
 
 #### 💻 </br>
+
+### Estudande de Tecnologia em progresso na UFMS.
+### Atualmente atuo como Desenvolvedor Junior na linguagem C#, SQL Server.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EderVoR&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 
