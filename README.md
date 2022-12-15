@@ -4,16 +4,16 @@
 #### Atualmente atuo como Desenvolvedor Junior na linguagem C#, SQL Server.
 
 </br>
-<!--div>
+<div align="center">
   <a href="ww.github.com/EderVoR">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderVoR&theme=blue-green"></img></a>
-</div-->
+</div>
 </br>
 
-<div align="center">
+<!--div align="center">
   <a href="https://github.com/EderVor">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edervor&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div-->
 <div align="center" style="display: inline_block"><br>
   <!--img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"-->
