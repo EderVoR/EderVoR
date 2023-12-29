@@ -1,8 +1,5 @@
 ## 💻 Olá, Meu nome é Eder Vieira
 
-#### Estudande de Analise e Desenvolvimento de Sistemas na UFMS.
-#### Atualmente atuo como Desenvolvedor Junior na linguagem C#, SQL Server.
-
 </br>
 <div align="center">
   <a href="ww.github.com/EderVoR">
